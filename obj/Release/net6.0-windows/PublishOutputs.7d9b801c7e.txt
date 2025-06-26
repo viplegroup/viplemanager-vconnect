@@ -1,0 +1,5 @@
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\publish\VipleManagement.exe
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\publish\VipleManagement.dll
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\publish\VipleManagement.deps.json
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\publish\VipleManagement.runtimeconfig.json
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\publish\VipleManagement.pdb

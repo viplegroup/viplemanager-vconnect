@@ -1,0 +1,14 @@
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\VipleManagement.exe
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\VipleManagement.deps.json
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\VipleManagement.runtimeconfig.json
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\VipleManagement.dll
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\bin\Release\net6.0-windows\VipleManagement.pdb
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\VipleManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\VipleManagement.AssemblyInfoInputs.cache
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\VipleManagement.AssemblyInfo.cs
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\VipleManagement.csproj.CoreCompileInputs.cache
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\VipleManagement.dll
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\refint\VipleManagement.dll
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\VipleManagement.pdb
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\VipleManagement.genruntimeconfig.cache
+C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\obj\Release\net6.0-windows\ref\VipleManagement.dll
