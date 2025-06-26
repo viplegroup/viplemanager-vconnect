@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Id>0d2b494b-c50a-4650-8a12-3b50fbacda60</Id>
+    <Name>Entreprise A</Name>
+    <Address>123 Avenue Principale</Address>
+    <City>Paris</City>
+    <PostalCode>75001</PostalCode>
+    <Email>contact@abc.fr</Email>
+    <Phone>01 23 45 67 89</Phone>
+    <ContactPerson>Jean Dupont</ContactPerson>
+    <CreationDate>2025-06-26T03:45:47.9015392+02:00</CreationDate>
+    <LastContactDate>2025-06-26T03:45:47.9015434+02:00</LastContactDate>
+    <NextFollowUpDate>2025-07-26T03:46:07.2647362+02:00</NextFollowUpDate>
+    <IsActive>true</IsActive>
+    <Type>Standard</Type>
+    <Notes>Client fidèle depuis 2022</Notes>
+    <SubscribedServiceIds />
+    <TotalMonthlyFees>120.00</TotalMonthlyFees>
+    <LastInvoiceDate>2025-05-26T03:45:47.9018095+02:00</LastInvoiceDate>
+    <PaymentStatus>UpToDate</PaymentStatus>
+    <AssignedToUserId />
+  </Client>
+  <Client>
+    <Id>5b19c87c-5c57-4cce-8119-67b71632c1ee</Id>
+    <Name>Mairie de Lyon</Name>
+    <Address>1 Place de la Mairie</Address>
+    <City>Lyon</City>
+    <PostalCode>69001</PostalCode>
+    <Email>contact@mairie-lyon.fr</Email>
+    <Phone>04 56 78 90 12</Phone>
+    <ContactPerson>Marie Martin</ContactPerson>
+    <CreationDate>2025-06-26T03:45:47.9018462+02:00</CreationDate>
+    <LastContactDate>2025-06-26T03:45:47.9018465+02:00</LastContactDate>
+    <NextFollowUpDate xsi:nil="true" />
+    <IsActive>true</IsActive>
+    <Type>Government</Type>
+    <Notes>Contrat renouvelable annuellement</Notes>
+    <SubscribedServiceIds />
+    <TotalMonthlyFees>450.00</TotalMonthlyFees>
+    <LastInvoiceDate>2025-04-26T03:45:47.9018472+02:00</LastInvoiceDate>
+    <PaymentStatus>PendingPayment</PaymentStatus>
+    <AssignedToUserId />
+  </Client>
+  <Client>
+    <Id>b07a76bf-2fb9-4e1b-a123-b3e958cfc2d2</Id>
+    <Name>StartupNext</Name>
+    <Address>42 Rue de l'Innovation</Address>
+    <City>Bordeaux</City>
+    <PostalCode>33000</PostalCode>
+    <Email>hello@startupnext.io</Email>
+    <Phone>05 67 89 01 23</Phone>
+    <ContactPerson>Hugo Tech</ContactPerson>
+    <CreationDate>2025-06-26T03:45:47.9018503+02:00</CreationDate>
+    <LastContactDate>2025-06-26T03:45:47.9018504+02:00</LastContactDate>
+    <NextFollowUpDate xsi:nil="true" />
+    <IsActive>true</IsActive>
+    <Type>Premium</Type>
+    <Notes>Startup en forte croissance, sensible aux prix</Notes>
+    <SubscribedServiceIds />
+    <TotalMonthlyFees>299.99</TotalMonthlyFees>
+    <LastInvoiceDate>2025-06-11T03:45:47.901851+02:00</LastInvoiceDate>
+    <PaymentStatus>UpToDate</PaymentStatus>
+    <AssignedToUserId />
+  </Client>
+</ArrayOfClient>

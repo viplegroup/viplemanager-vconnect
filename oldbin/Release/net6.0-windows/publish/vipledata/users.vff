@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>d76ed24a-a664-4164-8d7e-4bf5a9ef96c0</Id>
+    <Username>admin</Username>
+    <PasswordHash>yc0B3WPANAeYyKGY/vT0nqH+z2ulP3FC3b/C625aWFo=</PasswordHash>
+    <Salt>vQA99CI8oWeTRqCFTIp46A==</Salt>
+    <FirstName>Admin</FirstName>
+    <LastName>Admin</LastName>
+    <Role>Admin</Role>
+    <CreationDate>2025-06-26T03:45:02.946632+02:00</CreationDate>
+    <LastLogin>2025-06-26T03:45:03.112782+02:00</LastLogin>
+  </User>
+  <User>
+    <Id>08095935-e110-43ee-a373-5712287fff37</Id>
+    <Username>manager</Username>
+    <PasswordHash>jKlScPG5abT+m6HXhv6O6Vk+RivAKu2m3H7594L9Ej0=</PasswordHash>
+    <Salt>D8RjLINBy4B7nT6sW73mfA==</Salt>
+    <FirstName>Manager</FirstName>
+    <LastName>Manager</LastName>
+    <Role>Manager</Role>
+    <CreationDate>2025-06-26T03:45:02.9501987+02:00</CreationDate>
+    <LastLogin>0001-01-01T00:00:00</LastLogin>
+  </User>
+  <User>
+    <Id>e7e5ca59-b061-4da0-9ef4-d37ded719644</Id>
+    <Username>employee</Username>
+    <PasswordHash>qnlOqBvWcMjbtlZGLcjcYcP70zkgg8eDGoXcF0BNkto=</PasswordHash>
+    <Salt>lTdXn1O3ik01iGRd7IJHkw==</Salt>
+    <FirstName>Employee</FirstName>
+    <LastName>User</LastName>
+    <Role>Employee</Role>
+    <CreationDate>2025-06-26T03:45:02.9531524+02:00</CreationDate>
+    <LastLogin>0001-01-01T00:00:00</LastLogin>
+  </User>
+</ArrayOfUser>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Service>
+    <Id>85e86661-e1c3-4dc3-bc83-ef71bd998055</Id>
+    <Name>Hébergement Web</Name>
+    <Description>Serveur d'hébergement de sites web</Description>
+    <Category>Hosting</Category>
+    <Status>Running</Status>
+    <IsActive>true</IsActive>
+    <RequiresMonitoring>true</RequiresMonitoring>
+    <MonitoringUrl>https://www.viple.fr/status/web</MonitoringUrl>
+    <MonthlyFee>29.99</MonthlyFee>
+    <LastChecked>2025-06-26T03:45:10.3617263+02:00</LastChecked>
+    <LastStatusMessage>Service répond normalement</LastStatusMessage>
+    <ProductIds />
+    <AssociatedProducts />
+    <CreationDate>2024-12-26T03:45:07.7541486+01:00</CreationDate>
+  </Service>
+  <Service>
+    <Id>1ede6cb5-c8d4-4094-94d0-17778e38da75</Id>
+    <Name>Serveur Mail</Name>
+    <Description>Service de messagerie électronique</Description>
+    <Category>Email</Category>
+    <Status>Error</Status>
+    <IsActive>true</IsActive>
+    <RequiresMonitoring>true</RequiresMonitoring>
+    <MonitoringUrl>https://www.viple.fr/status/mail</MonitoringUrl>
+    <MonthlyFee>19.99</MonthlyFee>
+    <LastChecked>2025-06-26T03:45:11.351775+02:00</LastChecked>
+    <LastStatusMessage>Service non-répondant</LastStatusMessage>
+    <ProductIds />
+    <AssociatedProducts />
+    <CreationDate>2024-10-26T03:45:07.7541698+02:00</CreationDate>
+  </Service>
+  <Service>
+    <Id>86690cc1-cb3f-4ea8-9e75-9af10b5ce01b</Id>
+    <Name>Sauvegarde Cloud</Name>
+    <Description>Service de sauvegarde dans le cloud</Description>
+    <Category>Storage</Category>
+    <Status>Running</Status>
+    <IsActive>false</IsActive>
+    <RequiresMonitoring>true</RequiresMonitoring>
+    <MonitoringUrl>https://www.viple.fr/status/backup</MonitoringUrl>
+    <MonthlyFee>39.99</MonthlyFee>
+    <LastChecked>2025-06-26T02:45:07.7541736+02:00</LastChecked>
+    <LastStatusMessage>Service fonctionnel</LastStatusMessage>
+    <ProductIds />
+    <AssociatedProducts />
+    <CreationDate>2025-02-26T03:45:07.7541739+01:00</CreationDate>
+  </Service>
+  <Service>
+    <Id>c940b5cb-aeb8-4e5c-96e4-5bdec20a9dff</Id>
+    <Name>Support Premium</Name>
+    <Description>Service de support technique dédié</Description>
+    <Category>Support</Category>
+    <Status>Running</Status>
+    <IsActive>true</IsActive>
+    <RequiresMonitoring>false</RequiresMonitoring>
+    <MonitoringUrl />
+    <MonthlyFee>99.99</MonthlyFee>
+    <LastChecked>2025-06-25T03:45:07.7541753+02:00</LastChecked>
+    <LastStatusMessage>Service géré manuellement</LastStatusMessage>
+    <ProductIds />
+    <AssociatedProducts />
+    <CreationDate>2025-04-26T03:45:07.7541761+02:00</CreationDate>
+  </Service>
+</ArrayOfService>

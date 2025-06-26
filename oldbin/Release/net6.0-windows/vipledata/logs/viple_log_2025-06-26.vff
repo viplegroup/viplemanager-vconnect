@@ -1,0 +1,17 @@
+﻿[2025-06-26 04:12:41.284] [STARTUP] [1] Application démarrée
+[2025-06-26 04:12:41.298] [ACTION] [1] Répertoire de polices créé ou vérifié
+[2025-06-26 04:12:41.303] [ACTION] [1] Police extraite: Roboto-Regular.ttf
+[2025-06-26 04:12:41.305] [ACTION] [1] Police extraite: Roboto-Bold.ttf
+[2025-06-26 04:12:41.307] [ACTION] [1] Police extraite: OpenSans-Regular.ttf
+[2025-06-26 04:12:41.308] [ACTION] [1] Police extraite: JetBrainsMono-Regular.ttf
+[2025-06-26 04:12:41.312] [ACTION] [1] Police extraite: Hack-Regular.ttf
+[2025-06-26 04:12:41.313] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 04:12:41.316] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 04:12:41.331] [ACTION] [1] Police chargée: Hack-Regular.ttf
+[2025-06-26 04:12:41.334] [ACTION] [1] Police chargée: JetBrainsMono-Regular.ttf
+[2025-06-26 04:12:41.336] [ACTION] [1] Police chargée: OpenSans-Regular.ttf
+[2025-06-26 04:12:41.339] [ACTION] [1] Police chargée: Roboto-Bold.ttf
+[2025-06-26 04:12:41.342] [ACTION] [1] Police chargée: Roboto-Regular.ttf
+[2025-06-26 04:12:41.350] [ACTION] [1] Polices spécifiques assignées
+[2025-06-26 04:12:41.351] [ACTION] [1] Polices personnalisées chargées avec succès
+[2025-06-26 04:12:41.351] [ACTION] [1] Ressources initialisées
