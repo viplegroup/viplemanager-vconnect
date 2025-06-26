@@ -1,6 +1,6 @@
-# Viple Manager
+# Viple Manager vConnect Edition
 
-Une application Windows moderne pour la gestion complète des services Viple.
+Une application Windows moderne pour la gestion complète des services Viple. (Connection au serveur Viple, App client-server)
 
 ## Présentation
 
@@ -22,7 +22,7 @@ Viple Manager est un outil professionnel développé par Viple SAS permettant au
 
 *Des captures d'écran seront ajoutées prochainement*
 
-## Configuration requise
+## Configuration requise [client]
 
 - Windows 10 ou supérieur
 - .NET Framework 4.7.2+
