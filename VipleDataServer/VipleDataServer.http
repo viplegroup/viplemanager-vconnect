@@ -1,0 +1,6 @@
+@VipleDataServer_HostAddress = http://localhost:5187
+
+GET {{VipleDataServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

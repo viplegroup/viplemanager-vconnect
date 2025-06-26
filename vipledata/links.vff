@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLinkItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LinkItem>
+    <Id>7b22251b-24f3-46e4-af3d-feec09acfd1f</Id>
+    <Name>Site Viple</Name>
+    <Url>https://viplegroup.com</Url>
+    <Category>Entreprise</Category>
+    <Description>Site officiel de Viple SAS</Description>
+    <DateCreated>2025-06-26T02:15:51.2633808+02:00</DateCreated>
+    <LastVisited>0001-01-01T00:00:00</LastVisited>
+    <VisitCount>0</VisitCount>
+  </LinkItem>
+  <LinkItem>
+    <Id>2fdb2598-078a-4762-8bb0-d648b7e837c9</Id>
+    <Name>Documentation technique</Name>
+    <Url>https://docs.viple.fr</Url>
+    <Category>Support</Category>
+    <Description>Documentation technique des services Viple</Description>
+    <DateCreated>2025-06-26T02:15:51.2635079+02:00</DateCreated>
+    <LastVisited>0001-01-01T00:00:00</LastVisited>
+    <VisitCount>0</VisitCount>
+  </LinkItem>
+  <LinkItem>
+    <Id>f7ea50cf-00d9-41dd-9924-9254f34fb543</Id>
+    <Name>Portail client</Name>
+    <Url>https://client.viple.fr</Url>
+    <Category>Clientèle</Category>
+    <Description>Portail d'accès pour les clients Viple</Description>
+    <DateCreated>2025-06-26T02:15:51.2635095+02:00</DateCreated>
+    <LastVisited>0001-01-01T00:00:00</LastVisited>
+    <VisitCount>0</VisitCount>
+  </LinkItem>
+</ArrayOfLinkItem>

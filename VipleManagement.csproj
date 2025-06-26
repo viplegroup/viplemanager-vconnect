@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>VipleManagement</RootNamespace>
+    <AssemblyName>VipleManagement</AssemblyName>
+    <ApplicationIcon>viple_ressources\images\viple.ico</ApplicationIcon>
+    <Company>Viple SAS</Company>
+    <Product>Viple Management System</Product>
+    <Version>1.0.0</Version>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Description>Application de gestion des services Viple</Description>
+    <Copyright>© 2025 Viple SAS. Tous droits réservés.</Copyright>
+    <!-- Désactiver les avertissements de nullabilité temporairement -->
+    <NoWarn>CS8600;CS8601;CS8602;CS8603;CS8604;CS8618;CS8622;CS8625;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <!-- Reste du fichier project inchangé... -->
+</Project>

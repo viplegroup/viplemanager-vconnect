@@ -1,0 +1,197 @@
+﻿[2025-06-26 02:14:02.752] [STARTUP] [1] Application démarrée
+[2025-06-26 02:14:02.754] [LOGIN] [1] Connexion ÉCHOUÉE pour l'utilisateur admin
+[2025-06-26 02:14:06.170] [LOGIN] [1] Connexion RÉUSSIE pour l'utilisateur admin
+[2025-06-26 02:14:19.935] [ACTION] [1] État des services chargé
+[2025-06-26 02:14:29.452] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:14:29.471] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:14:29.524] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:14:30.231] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:14:30.237] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:14:30.293] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:14:30.769] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:14:30.781] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:14:30.831] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:14:35.139] [ACTION] [1] Vérification du statut du service: Support Premium 24/7
+[2025-06-26 02:14:35.144] [ACTION] [1] Service mis à jour: Support Premium 24/7
+[2025-06-26 02:14:35.175] [ACTION] [1] Service vérifié: 690550db-d48c-4a65-ae75-bab1d42412ca - Statut: True
+[2025-06-26 02:14:38.798] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:14:38.805] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:14:52.252] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:14:52.373] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:14:57.077] [ACTION] [1] État des services chargé
+[2025-06-26 02:14:59.144] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:14:59.153] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:14:59.205] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:00.307] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:00.313] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:00.366] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:00.519] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:00.530] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:00.596] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:00.726] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:00.730] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:00.788] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:00.949] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:00.964] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:01.012] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: False
+[2025-06-26 02:15:01.958] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:01.961] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:02.013] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:02.194] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:02.201] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:02.255] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:02.423] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:02.428] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:02.479] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:02.638] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:02.643] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:02.695] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:02.858] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:02.862] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:02.914] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:04.353] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:04.359] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:04.411] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:06.331] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:07.401] [ACTION] [1] Vérification du statut de tous les services
+[2025-06-26 02:15:07.410] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:12.503] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:14.264] [ACTION] [1] Vérification du statut du service: Hébergement Web Premium
+[2025-06-26 02:15:14.267] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:14.321] [ACTION] [1] Service vérifié: 8c3d1da0-d7d2-4c1e-8178-a84e5f6e1b8e - Statut: True
+[2025-06-26 02:15:18.086] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:20.657] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:15:20.664] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:15:26.387] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:26.481] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:15:34.915] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:35.021] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:15:38.520] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:41.006] [ACTION] [1] Vérification du statut de tous les services
+[2025-06-26 02:15:41.024] [ACTION] [1] Service mis à jour: Hébergement Web Premium
+[2025-06-26 02:15:43.394] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:44.276] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:44.581] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:44.787] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:44.986] [ACTION] [1] État des services chargé
+[2025-06-26 02:15:48.096] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:15:48.105] [ACTION] [1] Catalogue de services chargé
+[2025-06-26 02:15:51.284] [ACTION] [1] Liens enregistrés
+[2025-06-26 02:16:01.460] [ACTION] [1] Liens enregistrés
+[2025-06-26 02:16:09.751] [ACTION] [1] Liens enregistrés
+[2025-06-26 02:16:23.517] [ACTION] [1] Liens enregistrés
+[2025-06-26 02:16:31.953] [ACTION] [1] Lien ouvert: Site Viple (https://viplegroup.com)
+[2025-06-26 02:17:19.050] [LOGOUT] [1] Déconnexion de l'utilisateur admin
+[2025-06-26 02:17:25.911] [STARTUP] [1] Application démarrée
+[2025-06-26 02:17:25.913] [LOGIN] [1] Connexion RÉUSSIE pour l'utilisateur manager
+[2025-06-26 02:17:30.661] [ACTION] [1] État des services chargé
+[2025-06-26 02:18:07.352] [STARTUP] [1] Application démarrée
+[2025-06-26 02:18:07.353] [LOGIN] [1] Connexion RÉUSSIE pour l'utilisateur admin
+[2025-06-26 03:40:21.172] [STARTUP] [1] Application démarrée
+[2025-06-26 03:40:21.187] [ACTION] [1] Répertoire de polices créé ou vérifié
+[2025-06-26 03:40:21.191] [ACTION] [1] Police extraite: Roboto-Regular.ttf
+[2025-06-26 03:40:21.205] [ACTION] [1] Police extraite: Roboto-Bold.ttf
+[2025-06-26 03:40:21.206] [ACTION] [1] Police extraite: OpenSans-Regular.ttf
+[2025-06-26 03:40:21.208] [ACTION] [1] Police extraite: JetBrainsMono-Regular.ttf
+[2025-06-26 03:40:21.210] [ACTION] [1] Police extraite: Hack-Regular.ttf
+[2025-06-26 03:40:21.211] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 03:40:21.212] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 03:40:21.237] [ACTION] [1] Police chargée: Hack-Regular.ttf
+[2025-06-26 03:40:21.240] [ACTION] [1] Police chargée: JetBrainsMono-Regular.ttf
+[2025-06-26 03:40:21.250] [ACTION] [1] Police chargée: OpenSans-Regular.ttf
+[2025-06-26 03:40:21.252] [ACTION] [1] Police chargée: Roboto-Bold.ttf
+[2025-06-26 03:40:21.255] [ACTION] [1] Police chargée: Roboto-Regular.ttf
+[2025-06-26 03:40:21.257] [ACTION] [1] Polices spécifiques assignées
+[2025-06-26 03:40:21.258] [ACTION] [1] Polices personnalisées chargées avec succès
+[2025-06-26 03:40:21.258] [ACTION] [1] Ressources initialisées
+[2025-06-26 03:40:26.581] [LOGIN] [1] Connexion RÉUSSIE pour l'utilisateur admin
+[2025-06-26 03:40:30.805] [ERROR] [1] Erreur lors du chargement des services: There is an error in XML document (0, 0). | Exception: InvalidOperationException | Message: There is an error in XML document (0, 0). | StackTrace:    at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at VipleManagement.Services.ServiceManager.LoadServices() in C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\Services\ServiceManager.cs:line 328
+[2025-06-26 03:40:30.815] [ACTION] [1] État des services chargé
+[2025-06-26 03:40:33.205] [ACTION] [1] État des services chargé
+[2025-06-26 03:40:35.704] [ACTION] [1] État des services chargé
+[2025-06-26 03:40:37.318] [ACTION] [1] État des services chargé
+[2025-06-26 03:40:40.429] [ERROR] [1] Erreur lors du chargement des services: There is an error in XML document (0, 0). | Exception: InvalidOperationException | Message: There is an error in XML document (0, 0). | StackTrace:    at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at VipleManagement.Services.ServiceManager.LoadServices() in C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\Services\ServiceManager.cs:line 328
+[2025-06-26 03:40:41.750] [ERROR] [1] Erreur lors du chargement des services: There is an error in XML document (0, 0). | Exception: InvalidOperationException | Message: There is an error in XML document (0, 0). | StackTrace:    at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at VipleManagement.Services.ServiceManager.LoadServices() in C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\Services\ServiceManager.cs:line 328
+[2025-06-26 03:40:49.475] [ACTION] [1] Service ajouté: ss
+[2025-06-26 03:40:49.476] [ACTION] [1] Service ajouté : ss
+[2025-06-26 03:41:02.255] [ACTION] [1] Service ajouté: ss
+[2025-06-26 03:41:02.256] [ACTION] [1] Service ajouté : ss
+[2025-06-26 03:41:07.508] [ACTION] [1] État des services chargé
+[2025-06-26 03:41:08.914] [ACTION] [1] Service vérifié: 2a9f4e71-6fc5-4f95-9c2d-9167c7023022 - Statut: True
+[2025-06-26 03:41:10.467] [ACTION] [1] Service vérifié: a905ecfe-8876-4a4a-944f-fe129afb2686 - Statut: False
+[2025-06-26 03:41:12.076] [ACTION] [1] Service vérifié: 2a9f4e71-6fc5-4f95-9c2d-9167c7023022 - Statut: True
+[2025-06-26 03:41:24.375] [ERROR] [1] Erreur lors du chargement des clients : There is an error in XML document (0, 0). | Exception: InvalidOperationException | Message: There is an error in XML document (0, 0). | StackTrace:    at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at VipleManagement.Services.ClientManager.LoadClients() in C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\Services\ClientManager.cs:line 162
+[2025-06-26 03:41:39.132] [ERROR] [1] Erreur lors du chargement des clients : There is an error in XML document (0, 0). | Exception: InvalidOperationException | Message: There is an error in XML document (0, 0). | StackTrace:    at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at VipleManagement.Services.ClientManager.LoadClients() in C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\Services\ClientManager.cs:line 162
+[2025-06-26 03:42:20.379] [ACTION] [1] Liste des clients rafraîchie
+[2025-06-26 03:42:42.853] [ACTION] [1] État des services chargé
+[2025-06-26 03:42:44.017] [ACTION] [1] Service vérifié: 2a9f4e71-6fc5-4f95-9c2d-9167c7023022 - Statut: True
+[2025-06-26 03:42:52.538] [STARTUP] [1] Application démarrée
+[2025-06-26 03:42:52.543] [ACTION] [1] Répertoire de polices créé ou vérifié
+[2025-06-26 03:42:52.546] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 03:42:52.547] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 03:42:52.561] [ACTION] [1] Police chargée: Hack-Regular.ttf
+[2025-06-26 03:42:52.566] [ACTION] [1] Police chargée: JetBrainsMono-Regular.ttf
+[2025-06-26 03:42:52.569] [ACTION] [1] Police chargée: OpenSans-Regular.ttf
+[2025-06-26 03:42:52.572] [ACTION] [1] Police chargée: Roboto-Bold.ttf
+[2025-06-26 03:42:52.575] [ACTION] [1] Police chargée: Roboto-Regular.ttf
+[2025-06-26 03:42:52.576] [ACTION] [1] Polices spécifiques assignées
+[2025-06-26 03:42:52.577] [ACTION] [1] Polices personnalisées chargées avec succès
+[2025-06-26 03:42:52.578] [ACTION] [1] Ressources initialisées
+[2025-06-26 03:42:57.134] [LOGIN] [1] Connexion RÉUSSIE pour l'utilisateur admin
+[2025-06-26 03:43:00.041] [ACTION] [1] État des services chargé
+[2025-06-26 03:43:16.395] [LOGOUT] [1] Déconnexion de l'utilisateur admin
+[2025-06-26 03:43:16.814] [STARTUP] [1] Application démarrée
+[2025-06-26 03:43:16.819] [ACTION] [1] Répertoire de polices créé ou vérifié
+[2025-06-26 03:43:16.822] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 03:43:16.823] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 03:43:16.834] [ACTION] [1] Police chargée: Hack-Regular.ttf
+[2025-06-26 03:43:16.837] [ACTION] [1] Police chargée: JetBrainsMono-Regular.ttf
+[2025-06-26 03:43:16.839] [ACTION] [1] Police chargée: OpenSans-Regular.ttf
+[2025-06-26 03:43:16.842] [ACTION] [1] Police chargée: Roboto-Bold.ttf
+[2025-06-26 03:43:16.845] [ACTION] [1] Police chargée: Roboto-Regular.ttf
+[2025-06-26 03:43:16.846] [ACTION] [1] Polices spécifiques assignées
+[2025-06-26 03:43:16.847] [ACTION] [1] Polices personnalisées chargées avec succès
+[2025-06-26 03:43:16.848] [ACTION] [1] Ressources initialisées
+[2025-06-26 04:11:50.403] [STARTUP] [1] Application démarrée
+[2025-06-26 04:11:50.419] [ACTION] [1] Répertoire de polices créé ou vérifié
+[2025-06-26 04:11:50.422] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 04:11:50.423] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 04:11:50.451] [ACTION] [1] Police chargée: Hack-Regular.ttf
+[2025-06-26 04:11:50.457] [ACTION] [1] Police chargée: JetBrainsMono-Regular.ttf
+[2025-06-26 04:11:50.466] [ACTION] [1] Police chargée: OpenSans-Regular.ttf
+[2025-06-26 04:11:50.470] [ACTION] [1] Police chargée: Roboto-Bold.ttf
+[2025-06-26 04:11:50.489] [ACTION] [1] Police chargée: Roboto-Regular.ttf
+[2025-06-26 04:11:50.491] [ACTION] [1] Polices spécifiques assignées
+[2025-06-26 04:11:50.492] [ACTION] [1] Polices personnalisées chargées avec succès
+[2025-06-26 04:11:50.492] [ACTION] [1] Ressources initialisées
+[2025-06-26 04:12:03.705] [STARTUP] [1] Application démarrée
+[2025-06-26 04:12:03.709] [ACTION] [1] Répertoire de polices créé ou vérifié
+[2025-06-26 04:12:03.712] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 04:12:03.713] [ACTION] [1] Toutes les polices ont été extraites avec succès
+[2025-06-26 04:12:03.721] [ACTION] [1] Police chargée: Hack-Regular.ttf
+[2025-06-26 04:12:03.727] [ACTION] [1] Police chargée: JetBrainsMono-Regular.ttf
+[2025-06-26 04:12:03.729] [ACTION] [1] Police chargée: OpenSans-Regular.ttf
+[2025-06-26 04:12:03.733] [ACTION] [1] Police chargée: Roboto-Bold.ttf
+[2025-06-26 04:12:03.736] [ACTION] [1] Police chargée: Roboto-Regular.ttf
+[2025-06-26 04:12:03.737] [ACTION] [1] Polices spécifiques assignées
+[2025-06-26 04:12:03.738] [ACTION] [1] Polices personnalisées chargées avec succès
+[2025-06-26 04:12:03.739] [ACTION] [1] Ressources initialisées
+[2025-06-26 04:12:12.184] [ERROR] [1] Erreur lors du chargement des utilisateurs: There was an error reflecting type 'System.Collections.Generic.List`1[VipleManagement.Models.User]'. | Exception: InvalidOperationException | Message: There was an error reflecting type 'System.Collections.Generic.List`1[VipleManagement.Models.User]'. | StackTrace:    at System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(TypeModel model, String ns, ImportContext context, String dataType, XmlAttributes a, Boolean repeats, Boolean openModel, RecursionLimiter limiter)
+   at System.Xml.Serialization.XmlReflectionImporter.ImportElement(TypeModel model, XmlRootAttribute root, String defaultNamespace, RecursionLimiter limiter)
+   at System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   at VipleManagement.Services.UserManager.LoadUsers() in C:\Users\elioslocal\Downloads\viplemanager-main\viplemanager-main\Services\UserManager.cs:line 500
+[2025-06-26 04:12:12.279] [ACTION] [1] Tentative d'authentification échouée: mot de passe incorrect pour 'admin'
+[2025-06-26 04:12:16.981] [ACTION] [1] Tentative d'authentification échouée: mot de passe incorrect pour 'admin'
+[2025-06-26 04:12:25.231] [ACTION] [1] Tentative d'authentification échouée: utilisateur 'manager' introuvable

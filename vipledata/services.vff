@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Service>
+    <Id>2a9f4e71-6fc5-4f95-9c2d-9167c7023022</Id>
+    <Name>ss</Name>
+    <Description>s</Description>
+    <Category>Hosting</Category>
+    <Status>Inactive</Status>
+    <IsActive>true</IsActive>
+    <RequiresMonitoring>false</RequiresMonitoring>
+    <MonitoringUrl />
+    <MonthlyFee>0</MonthlyFee>
+    <LastChecked>2025-06-26T03:42:44.0128942+02:00</LastChecked>
+    <LastStatusMessage>Statut mis à jour manuellement</LastStatusMessage>
+    <ProductIds />
+    <AssociatedProducts />
+    <CreationDate>2025-06-26T03:40:41.7529379+02:00</CreationDate>
+  </Service>
+  <Service>
+    <Id>a905ecfe-8876-4a4a-944f-fe129afb2686</Id>
+    <Name>ss</Name>
+    <Description>ss</Description>
+    <Category>Support</Category>
+    <Status>Error</Status>
+    <IsActive>true</IsActive>
+    <RequiresMonitoring>true</RequiresMonitoring>
+    <MonitoringUrl>htt</MonitoringUrl>
+    <MonthlyFee>22</MonthlyFee>
+    <LastChecked>2025-06-26T03:41:09.9438598+02:00</LastChecked>
+    <LastStatusMessage>Service non-répondant</LastStatusMessage>
+    <ProductIds>
+      <string>c2c750c4-665b-400f-961a-177b8a82cfec</string>
+    </ProductIds>
+    <AssociatedProducts />
+    <CreationDate>2025-06-26T03:40:51.1165192+02:00</CreationDate>
+  </Service>
+</ArrayOfService>

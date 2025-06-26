@@ -1,0 +1,38 @@
+# Viple FilesVersion - fr-FR 1.0.0 - Date 25/06/2025
+# Fichier de langue français - Créé par Viple SAS
+
+[LOGIN]
+TITLE=VIPLE MANAGEMENT
+USERNAME=Nom d'utilisateur:
+PASSWORD=Mot de passe:
+LOGIN_BUTTON=Se connecter
+LOGIN_ERROR=Nom d'utilisateur ou mot de passe incorrect.
+
+[MENU]
+CLIENTS=Clients
+SERVICES=Services
+LINKS=Liens
+ADMINISTRATION=Administration
+SYSTEM=Système
+
+[CLIENTS_MENU]
+CLIENT_LIST=Liste des clients
+ADD_CLIENT=Ajouter un client
+
+[SERVICES_MENU]
+SERVICES_STATUS=État des services
+SERVICES_CATALOG=Catalogue de services
+SERVICES_MANAGEMENT=Gestion des services
+
+[ADMIN_MENU]
+USER_MANAGEMENT=Gestion des utilisateurs
+ACTIVITY_LOGS=Logs d'activité
+
+[SYSTEM_MENU]
+ABOUT=À propos
+LOGOUT=Déconnexion
+
+[STATUS_BAR]
+USER=Utilisateur:
+ROLE=Rôle:
+CONNECTION=Connexion:
